@@ -2,4 +2,15 @@ body{
     background-color: burlywood;
     color: crimson;
     font-family: "EB Garamond", serif;
+    margin: 0px;
+}
+
+
+header {
+    font-size: 40px;
+    border: outset 5px rgb(210, 22, 53);
+}
+
+h1{
+    font-size: 20px;
 }
