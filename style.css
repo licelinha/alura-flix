@@ -8,7 +8,9 @@ body{
 
 header {
     font-size: 40px;
-    border: outset 5px rgb(210, 22, 53);
+    border-bottom: outset 5px rgba(210, 22, 53, 0.987);
+    /*margin: 30px;*/
+    padding: 10px;
 }
 
 h1{
